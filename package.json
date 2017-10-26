@@ -1,0 +1,23 @@
+{
+  "name": "Redmine Issues",
+  "version": "1.0.0",
+  "description": "Redmine Issues",
+  "main": "index.js",
+  "author": "Nishio Manabu m.nishio@entershare.jp",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://rm.entershare.jp/issues",
+    "serviceName": "Redmine Issues",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
